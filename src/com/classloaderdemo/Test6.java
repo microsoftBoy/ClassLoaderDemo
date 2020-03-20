@@ -12,7 +12,7 @@ public class Test6 {
         System.out.println();
         getExtDirs();
         getClassPath(property);
-        //测试冲突111
+        //测试冲突333
 
     }
 
