@@ -14,6 +14,7 @@ public class Test6 {
         getClassPath(property);
         //测试冲突333
 
+
     }
 
     private static File[] getExtDirs() {
